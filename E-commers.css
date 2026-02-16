@@ -77,7 +77,6 @@ p{
 }
 
 body{
-
     font-family: 'Poppins', sans-serif;
 }
 
@@ -89,7 +88,6 @@ body{
 .col-2 img{
     max-width: 100%;
     padding:50px 0;
-
 }
 
 .col-2 h1{
@@ -120,8 +118,7 @@ body{
 }
 
 .categories{
-
-    margin: 70px 0;;
+    margin: 70px 0;
 }
 
 .col-3{
@@ -175,14 +172,12 @@ body{
 h4{
     color:#555;
     font-weight:normal;
-
 }
 .col-4 p{
     font-size:14px;
-
 }
 .rating .fa{
-color:#ff523b;
+    color:#ff523b;
 }
 .col-4:hover{
     transform:translatey(-5px);
@@ -199,13 +194,9 @@ color:#ff523b;
 small{
     color: #555;
 }
-/* ----------testimonial--------
- */
-
-
+/* ----------testimonial-------- */
 .testimonial{
     padding-top:100px;
-
 } 
 .testimonial .col-3{
     text-align:center;
@@ -218,7 +209,6 @@ small{
     width:50px;
     margin-top:20px;
     border-radius:50px;
-
 }
 .testimonial .col-3:hover{
     transform:translateY(-10px);
@@ -238,9 +228,8 @@ small{
     font-size:16px;
 }
 /* ------brands------ */
-.barnds{
+.brands{
     margin:100px auto;
-
 }
 .col-5{
     width:160px;
@@ -253,7 +242,6 @@ small{
 .col-5 img:hover{
     filter:grayscale(0);
 }
-
 
 /* -----foooter------- */
 .footer{
@@ -276,12 +264,10 @@ small{
 .footer-col-1{
     flex-basis:30%;
     margin-left: 30px;
-
 }
 .footer-col-2{
     flex:1;
     text-align:center;
-
 }
 .footer-col-2 img{
     width:180px;
@@ -311,9 +297,7 @@ ul{
 }
 
 /* -------------media query for menu------------- */
-
 @media only screen and (max-width: 800px){
-
     nav ul{
         position: absolute;
         top: 70px;
@@ -326,28 +310,23 @@ ul{
     nav ul li{
         display: block;
         margin: 10px 50px 10px 0px;
-
     }
 
     nav ul li a{
         color: #fff;
-
     }
 
     .menu-icon{
         display: block;
         cursor: pointer;
     }
-
 }
 
 /* --------media query for less than 600 screen size */
-
 @media only screen and (max-width: 600px){
     .row{
         text-align: center;
     }
-
     .col-2, .col-3, .col-4{
         flex-basis: 100%;
     }
