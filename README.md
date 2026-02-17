@@ -20,7 +20,7 @@ A modern, responsive e-commerce website built with HTML, CSS, and JavaScript.
 
 ## Live Demo
 
-Check out the live demo: [E-commerce Website](https://tusharsingh7705.github.io/Ecommerce_web/)
+Check out the live demo: [E-commerce Website]([https://tusharsingh7705.github.io/Ecommerce_web/](https://ecommerce-web-red-kappa.vercel.app/))
 
 ## Getting Started
 
